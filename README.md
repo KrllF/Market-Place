@@ -4,10 +4,10 @@
 
 1. Conceptual Model
 
-![plot](models/imgs/conceptual.jpg)
+![plot](models/img/conceptual.jpg)
 
 
 
 2. Logical Model
-![plot](models/imgs/logic.png)
+![plot](models/img/logic.png)
 
